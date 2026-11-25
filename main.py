@@ -1,8 +1,8 @@
-# Write the fridge's contest entry as a single UTF-8 line.
+# Write one UTF-8 fridge note within the contest's 200-character limit.
 import os
 from pathlib import Path
 
-TEXT = "Milk carton returned empty. I've marked it Display Model."
+TEXT = "Leftovers labeled 'Tuesday.' I've added a year field."
 
 
 def main() -> None:
